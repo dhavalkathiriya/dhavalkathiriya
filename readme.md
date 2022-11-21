@@ -1,5 +1,5 @@
 
- Hello..! 😃 I'm Shivam vora 👨👋
+ Hello..! 😃 I'm Dhaval kathiriya 👨👋
 -
 - 🔭 I’m currently working as REACTJS Developer 
 - 🌱 I’m currently learning MERN DEVELOPER
